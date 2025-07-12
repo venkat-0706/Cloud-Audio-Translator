@@ -7,7 +7,7 @@
 </p>
 
 <p align="center">
-  <img src="https://res.cloudinary.com/dhmixzenl/image/upload/v1751283051/login-bg_gwbfau.png" alt="Audio Transcriber Screenshot" width="80%"/>
+  <img src="https://res.cloudinary.com/djrza5kcv/image/upload/v1752287215/Screenshot_352_rxpo3b.png" width="80%"/>
 </p>
 
 ---
@@ -118,9 +118,11 @@ All powered by **serverless cloud technology** for fast, scalable performance.
 > 🚀 **Venkata Chandu**  
 🎓 BTech - Computer Science Engineering  
 💡 Passionate about Web Development, Machine Learning & AI  
-🌐 Portfolio: [https://venkat-0706.github.io/Portfolio/](ClickHere)  
-🔗 GitHub: [https://github.com/venkat-0706](ClickHere)  
-📧 Email: chanduabbireddy247@gmail.com  
+🌐 Portfolio: [Click Here](https://venkat-0706.github.io/Portfolio/)  
+🔗 GitHub: [Click Here](https://github.com/venkat-0706)  
+📧 Email: [Get In Touch](chanduabbireddy247@gmail.com)
+🎥 YouTube: [Watch My Channel](https://www.youtube.com/@user-em3mq3zi7s)
+
 
 ---
 
@@ -131,5 +133,4 @@ All powered by **serverless cloud technology** for fast, scalable performance.
 
 > *“Empowering cross-language communication through the cloud.”*
 
-=
 
